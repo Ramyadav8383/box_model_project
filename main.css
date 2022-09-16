@@ -14,8 +14,8 @@ body {
 }
 .box {
   border: 1px solid #f4f4f4;
-  width: 300px;
-  padding: 1rem;
+  width: 250px;
+  padding: 1rem 1.5rem;
   margin: 1rem 0;
   text-align: center;
   background: #fff;
@@ -40,7 +40,6 @@ body {
   background: rgb(159, 159, 207);
   padding: 0.5rem 1rem;
   border-radius: 50%;
-  margin-bottom: 1rem;
 }
 .btn {
   color: #fff;
